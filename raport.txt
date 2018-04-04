@@ -1,0 +1,44 @@
+A fost introdus Clientul cu id-ul: 1
+A fost actualizat Clientul cu id-ul: 1
+Au fost vizualizate conturile
+A fost introdus Clientului cu id-ul: 14 contul cu id-ul
+Au fost vizualizate conturile
+Au fost vizualizate conturile
+A fost introdus Clientului cu id-ul: 14 contul cu id-ul
+A fost introdus Clientului cu id-ul: 3 contul cu id-ul
+Au fost vizualizate conturile
+A fost introdus Clientului cu id-ul: 14 contul cu id-ul
+Au fost vizualizate conturile
+Au fost vizualizate conturile
+S-a facut update la contul cu id-ul1 cu suma de 120485 cu tipul 1 cu data 03/18
+Au fost vizualizate conturile
+A fost introdus Clientului cu id-ul: 14 contul cu id-ul
+Au fost vizualizate conturile
+A fost sters contul cu id-ul 6
+Au fost vizualizate conturile
+S-a facut update la contul cu id-ul3 cu suma de 120 cu tipul 1 cu data 03/18
+Au fost vizualizate conturile
+A fost efectuat transferul din contul cu id-ul1 in contul cu id-ul2 cu suma de 230
+Au fost vizualizate conturile
+A fost efectuat transferul din contul cu id-ul1 in contul cu id-ul3 cu suma de 230
+Au fost vizualizate conturile
+A fost efectuat transferul din contul cu id-ul5 in contul cu id-ul4 cu suma de 494
+Plata utilitatilor efectuata de contul cu id-ul 5
+Au fost vizualizate conturile
+A fost introdus Clientul cu id-ul: 1
+A fost actualizat Clientul cu id-ul: 1
+A fost actualizat Clientul cu id-ul: 15
+Au fost vizualizate conturile
+A fost introdus Clientului cu id-ul: 15 contul cu id-ul
+Au fost vizualizate conturile
+S-a facut update la contul cu id-ul6 cu suma de 404 cu tipul 3 cu data 12/18
+Au fost vizualizate conturile
+A fost sters contul cu id-ul 6
+Au fost vizualizate conturile
+A fost efectuat transferul din contul cu id-ul1 in contul cu id-ul3 cu suma de 1000
+Au fost vizualizate conturile
+A fost efectuat transferul din contul cu id-ul1 in contul cu id-ul3 cu suma de -1000
+Au fost vizualizate conturile
+A fost efectuat transferul din contul cu id-ul5 in contul cu id-ul4 cu suma de 444
+Plata utilitatilor efectuata de contul cu id-ul 5
+Au fost vizualizate conturile
